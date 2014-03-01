@@ -1,0 +1,21 @@
+{
+  "name": "node-google-bigquery",
+  "version": "0.0.1",
+  "description": "Node + Google Bigquery.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "google",
+    "bigquery",
+    "express"
+  ],
+  "author": "Arshad Chummun <arshad@chummun.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~3.4.7",
+    "googleapis": "~0.6.1"
+  }
+}
