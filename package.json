@@ -13,7 +13,7 @@
     "express"
   ],
   "author": "Arshad Chummun <arshad@chummun.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "~3.4.7",
     "googleapis": "~0.6.1"
