@@ -8,7 +8,7 @@ Installation
 
 * Visit https://console.developers.google.com/project.
 * Select your project and click on API & auths > Credentials.
-* Click on "Generate New Client ID". Choose Serice Account.
+* Click on "Generate New Client ID". Choose Service Account.
 * Download your p12 key and note down your secret.
 * Next run the following command to decrypt the key file.
 
@@ -29,4 +29,3 @@ Installation
     ```sh
     node index.js
     ```
-    
